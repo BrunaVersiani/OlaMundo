@@ -1,2 +1,4 @@
-# OlaMundo
+# Olá, Mundo!
  PRIMEIRO REPOSITORIO 
+
+GTI E GITHUB
